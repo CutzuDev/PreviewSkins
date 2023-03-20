@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function NFHandle() {
   return (
-    <main className="flex h-full w-full flex-1 flex-col items-center justify-center gap-8 bg-blue-300 p-8">
+    <main className="flex h-full w-full flex-1 flex-col items-center justify-center gap-8 p-8">
       <h1 className="font-fredoka-one text-8xl text-white">404</h1>
       <h1 className="font-fredoka-one text-4xl text-white">Page Not Found</h1>
       <Link to={"/"}>
