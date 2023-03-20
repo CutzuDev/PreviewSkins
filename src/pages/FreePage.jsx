@@ -1,6 +1,6 @@
-import { PaidPacks as list } from "../components/Lists";
+import { FreePacks as list } from "../components/Lists";
 
-function Home() {
+function FreePage() {
   return (
     <main className="flex w-full flex-1 p-8">
       <div className="grid h-full w-full items-center justify-center gap-8 2xl:grid-cols-3">
@@ -17,4 +17,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default FreePage;

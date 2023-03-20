@@ -9,10 +9,10 @@ module.exports = {
       boxShadow: {
         customBox: "0px 0px 20px rgba(0, 0, 0, 0.1)",
       },
-    },
-    screens: {
-      phone: {'max': '480px'},
+      screens: {
+        phone: { max: "480px" },
+      },
     },
   },
-  plugins: [],
+  plugins: [require("prettier-plugin-tailwindcss")],
 };
