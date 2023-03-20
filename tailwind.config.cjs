@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        inter: ["Inter", "sans-serif"],
+        righteous: ["Righteous", "cursive"],
       },
       boxShadow: {
         customBox: "0px 0px 20px rgba(0, 0, 0, 0.1)",
