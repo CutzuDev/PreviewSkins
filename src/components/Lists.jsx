@@ -7,6 +7,10 @@ export let PaidPacks = [
     name: "Blue Pack",
     link: "https://media.discordapp.net/attachments/1087464099237068902/1087467728669003897/image.png",
   },
+  {
+    name: "Silver Pack",
+    link: "https://media.discordapp.net/attachments/1087464099237068902/1087481884063309914/image.png",
+  },
 ];
 export let FreePacks = [
   {
