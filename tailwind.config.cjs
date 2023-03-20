@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        "fredoka-one": ["Fredoka One", "cursive"],
+        inter: ["Inter", "sans-serif"],
       },
       boxShadow: {
         customBox: "0px 0px 20px rgba(0, 0, 0, 0.1)",
