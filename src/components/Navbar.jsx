@@ -14,7 +14,7 @@ function Navbar() {
         </Link>
         <Link
           to={"/free"}
-          className="rounded-md border-2 border-white bg-white bg-opacity-10 px-4 py-1 font-inter font-black text-2xl text-white shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 phone:text-base"
+          className="rounded-md border-2 border-white bg-white bg-opacity-10 px-4 py-1 font-inter text-2xl font-bold text-white shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 phone:text-base"
         >
           Free
         </Link>
@@ -23,7 +23,7 @@ function Navbar() {
       <a
         href="https://discord.gg/WWJuNS2z6c"
         target={"_blank"}
-        className="flex items-center font-black gap-1 rounded-xl bg-[#7289da] px-4 py-2 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 2xl:gap-3"
+        className="flex items-center gap-1 rounded-xl bg-[#7289da] px-4 py-2 font-black shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 2xl:gap-3"
       >
         <h1 className="font-inter text-base text-[#d4deff] 2xl:text-xl">
           Discord
