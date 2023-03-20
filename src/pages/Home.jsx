@@ -7,7 +7,7 @@ function Home() {
         {list.map((item) => (
           <div className="flex h-full w-full flex-col items-center justify-between overflow-hidden rounded-xl shadow-customBox shadow-neutral-900">
             <img className="w-full flex-1 rounded-t-xl" src={item.link} />
-            <h1 className="flex h-16 w-full items-center justify-center bg-gradient-to-tl from-slate-700 to-slate-500 text-center font-fredoka-one text-4xl font-black text-white 2xl:h-20">
+            <h1 className="flex h-16 w-full items-center justify-center bg-gradient-to-tl from-slate-700 to-slate-500 text-center font-fredoka-one text-xl font-black text-white 2xl:h-20 2xl:text-3xl">
               {item.name}
             </h1>
           </div>
