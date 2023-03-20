@@ -25,4 +25,10 @@ export let FreePacks = [
     download:
       "https://cdn.discordapp.com/attachments/1087464150927687771/1087470208228266156/BlackWithRGBPack.rpf",
   },
+  {
+    name: "Watermelon Pack",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1087495202652041296/image.png",
+    download:
+      "https://cdn.discordapp.com/attachments/1087464150927687771/1087495485704646706/WaterMelon.rar",
+  },
 ];
