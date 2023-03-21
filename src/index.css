@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply flex h-full w-full flex-col bg-slate-800;
+    @apply flex h-full w-full flex-col bg-neutral-800;
   }
 }

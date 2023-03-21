@@ -4,7 +4,7 @@ import house from "../assets/house-solid.svg";
 
 function Navbar() {
   return (
-    <nav className="flex h-20 w-full items-center justify-between bg-slate-900 px-5 shadow-customBox shadow-neutral-900 2xl:px-10">
+    <nav className="flex h-20 w-full items-center justify-between bg-neutral-900 px-5 shadow-customBox shadow-neutral-900 2xl:px-10">
       <div className="flex items-center gap-3 hover:cursor-pointer 2xl:gap-3">
         <Link to={"/"}>
           <img
@@ -14,7 +14,7 @@ function Navbar() {
         </Link>
         <Link
           to={"/free"}
-          className="rounded-md border-2 border-white bg-white bg-opacity-10 px-4 py-1 font-righteous text-2xl font-regular text-white shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 phone:text-base"
+          className="font-regular rounded-md border-2 border-yellow-500 bg-yellow-500 bg-opacity-10 px-4 py-1 font-righteous text-2xl text-yellow-500 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 phone:text-base"
         >
           Free
         </Link>
@@ -23,7 +23,7 @@ function Navbar() {
       <a
         href="https://discord.gg/WWJuNS2z6c"
         target={"_blank"}
-        className="flex items-center gap-1 rounded-xl bg-[#7289da] px-4 py-2 font-regular shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 2xl:gap-3"
+        className="font-regular flex items-center gap-1 rounded-xl bg-[#7289da] px-4 py-2 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 2xl:gap-3"
       >
         <h1 className="font-righteous text-base text-[#d4deff] 2xl:text-xl">
           Discord
