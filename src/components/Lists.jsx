@@ -14,21 +14,33 @@ export let PaidPacks = [
 ];
 export let FreePacks = [
   {
-    name: "Orange Pack",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1087465612604878959/image.png",
-    download:
-      "https://cdn.discordapp.com/attachments/1087464150927687771/1087470221255782432/OrangeTexturePack.rpf",
+    name: "Gold Pack",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1088198678042394726/image.png",
+    download: "https://direct-link.net/60447/fivem-gold-gun-pack",
   },
   {
-    name: "RGB V1 Pack",
+    name: "RGB Pack",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1087465717663801456/BlackWithRGBPack.png",
-    download:
-      "https://cdn.discordapp.com/attachments/1087464150927687771/1087470208228266156/BlackWithRGBPack.rpf",
+    download: "https://link-center.net/60447/fivem-rgb-gun-pack",
+  },
+  {
+    name: "Ocean Pack",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1088197034504368230/image.png",
+    download: "https://link-center.net/60447/fivem-ocean-gun-pack",
+  },
+  {
+    name: "Rock Pack",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1088195019824971877/image.png",
+    download: "https://link-center.net/60447/fivem-rock-gun-pack",
+  },
+  {
+    name: "Leaves Pack",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1088194043927871611/image.png",
+    download: "https://direct-link.net/60447/fivem-leaves-gun-pack",
   },
   {
     name: "Watermelon Pack",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1087495202652041296/image.png",
-    download:
-      "https://cdn.discordapp.com/attachments/1087464150927687771/1087495485704646706/WaterMelon.rar",
+    download: "https://link-center.net/60447/fivem-watermelon-gun-pack",
   },
 ];
