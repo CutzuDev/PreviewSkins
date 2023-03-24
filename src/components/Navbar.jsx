@@ -1,15 +1,14 @@
 import { Link } from "react-router-dom";
-import discord from "../assets/discord.svg";
-import house from "../assets/house-solid.svg";
+import { Discord, House } from "./SVGList";
 
 function Navbar() {
   return (
     <nav className="flex h-20 w-full items-center justify-between bg-neutral-900 px-5 shadow-customBox shadow-neutral-900 2xl:px-10">
       <div className="flex items-center gap-3 hover:cursor-pointer 2xl:gap-3">
         <Link to={"/"}>
-          <img
-            src={house}
+          <House
             className="w-7 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 2xl:w-10"
+            color={"#eab308"}
           />
         </Link>
         <Link
@@ -28,7 +27,8 @@ function Navbar() {
         <h1 className="font-righteous text-base text-[#d4deff] 2xl:text-xl">
           Discord
         </h1>
-        <img src={discord} className="w-7 2xl:w-10" />
+        <Discord className={"w-7 2xl:w-10"} color={"#fff"} />
+        {/* <img src={discord} className="w-7 2xl:w-10" /> */}
       </a>
     </nav>
   );
