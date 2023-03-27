@@ -11,7 +11,7 @@ function NFHandle() {
         Page Not Found
       </h1>
       <Link to={"/"}>
-        <h1 className="rounded-md border-2 border-yellow-500 bg-yellow-500 bg-opacity-10 px-4 py-2 font-righteous text-2xl text-yellow-500 transition duration-300 ease-in-out hover:scale-95">
+        <h1 className="rounded-md border-2 border-yellow-500 bg-yellow-500 bg-opacity-10 px-4 py-2 font-righteous text-xl text-yellow-500 transition duration-300 ease-in-out hover:scale-95">
           Go Back
         </h1>
       </Link>
