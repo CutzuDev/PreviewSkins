@@ -15,27 +15,32 @@ export let PaidPacks = [
     price: 4,
   },
   {
-    name: "Silver Pack",
+    name: "Green Camo Pack",
+
     link: "https://media.discordapp.net/attachments/1087464099237068902/1088890918775558185/image.png",
     price: 4,
   },
   {
-    name: "Silver Pack",
+    name: "Red Camo Pack",
+
     link: "https://media.discordapp.net/attachments/1087464099237068902/1088892479408984294/image.png",
     price: 4,
   },
   {
-    name: "Silver Pack",
+    name: "Blue Camo Pack",
+
     link: "https://media.discordapp.net/attachments/1087464099237068902/1088893127340867665/image.png",
     price: 4,
   },
   {
-    name: "Silver Pack",
+    name: "Yellow Camo Pack",
+
     link: "https://media.discordapp.net/attachments/1087464099237068902/1088894969521127565/image.png",
     price: 4,
   },
   {
-    name: "Silver Pack",
+    name: "Purple Camo Pack",
+
     link: "https://media.discordapp.net/attachments/1087464099237068902/1088898352986472559/image.png",
     price: 4,
   },
