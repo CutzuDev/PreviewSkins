@@ -34,7 +34,12 @@ function ListBuilder({ list }) {
             item.price ? "hover:cursor-pointer" : "hover:cursor-default"
           }`}
         >
-          <img className="w-full flex-1 rounded-t-xl" src={item.link} />
+          <img
+            className="w-full flex-1 rounded-t-xl"
+            src={item.link}
+            loading={"lazy"}
+          />
+
           <h1 className="font-regular relative flex h-16 w-full items-center justify-center bg-gradient-to-tl from-yellow-900 to-yellow-500 text-center font-righteous text-xl text-white xl:h-20 xl:text-3xl">
             {item.name}
 

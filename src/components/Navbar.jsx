@@ -43,10 +43,10 @@ function Navbar() {
           />
         </Link>
         <Link
-          to={"/free"}
+          to={"/shop"}
           className="font-regular rounded-md border-2 border-yellow-500 bg-yellow-500 bg-opacity-10 px-4 py-1 font-righteous text-xl text-yellow-500 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 phone:text-base"
         >
-          Free
+          Shop
         </Link>
         <ToastContainer
           position="bottom-right"
