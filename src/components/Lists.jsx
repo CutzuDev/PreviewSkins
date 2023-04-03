@@ -71,6 +71,61 @@ export let PaidPacks = [
 ];
 export let FreePacks = [
   {
+    name: "Blue Gem",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092505793875689523/image.png",
+    download: "https://link-center.net/60447/blue-gem",
+  },
+  {
+    name: "Case Hardened 1",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092506182603788289/image.png",
+    download: "https://link-target.net/60447/case-hardened-1",
+  },
+  {
+    name: "Case Hardened 2",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092506579301044236/image.png",
+    download: "https://link-target.net/60447/case-hardened-2",
+  },
+  {
+    name: "Case Hardened 3",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092506874223542454/image.png",
+    download: "https://link-hub.net/60447/case-hardened-3",
+  },
+  {
+    name: "Case Hardened 4",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092507234291957881/image.png",
+    download: "https://direct-link.net/60447/case-hardened-4",
+  },
+  {
+    name: "Case Hardened Full",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092507557752483890/image.png",
+    download: "https://link-hub.net/60447/case-hardened-full",
+  },
+  {
+    name: "Doppler Blue Red",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092508007520280729/image.png",
+    download: "https://link-target.net/60447/doppler-blue-red",
+  },
+  {
+    name: "Doppler Green Blue",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092509279786893352/image.png",
+    download: "https://link-target.net/60447/doppler-green-blue",
+  },
+  {
+    name: "Doppler Red Green",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092509657135853628/image.png",
+    download: "https://link-hub.net/60447/doppler-red-green",
+  },
+  {
+    name: "Doppler Full",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1092508927150796851/image.png",
+    download: "https://link-hub.net/60447/doppler-full",
+  },
+  {
+    name: "",
+    link: "",
+    download: "",
+  },
+  {
     name: "Colorful 1",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1091824093256503306/image.png",
     download: "https://link-center.net/60447/colorful-1-rpf",
