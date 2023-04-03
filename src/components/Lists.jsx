@@ -121,11 +121,6 @@ export let FreePacks = [
     download: "https://link-hub.net/60447/doppler-full",
   },
   {
-    name: "",
-    link: "",
-    download: "",
-  },
-  {
     name: "Colorful 1",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1091824093256503306/image.png",
     download: "https://link-center.net/60447/colorful-1-rpf",
