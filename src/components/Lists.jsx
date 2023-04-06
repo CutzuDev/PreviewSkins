@@ -71,6 +71,52 @@ export let PaidPacks = [
 ];
 export let FreePacks = [
   {
+    name: "Colorful 1",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091824093256503306/image.png",
+    download: "https://link-center.net/60447/colorful-1-rpf",
+  },
+  {
+    name: "Colorful 2",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091824723396137010/image.png",
+    download: "https://link-center.net/60447/colorful-2",
+  },
+  {
+    name: "Colorful 3",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825057543762040/image.png",
+    download: "https://link-center.net/60447/colorful3",
+  },
+  {
+    name: "Colorful 4",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825378819063818/image.png",
+    download: "https://direct-link.net/60447/colorful-4",
+  },
+  {
+    name: "Colorful 5",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825723771195502/image.png",
+    download: "https://link-hub.net/60447/ccolorful-5",
+  },
+  {
+    name: "Colorful 6",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826065053331476/image.png",
+    download: "https://link-target.net/60447/colorful-6",
+  },
+  {
+    name: "Colorful 7",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826509217538108/image.png",
+    download: "https://link-target.net/60447/colorful-7",
+  },
+  {
+    name: "Colorful 8",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826899543670794/image.png",
+    download: "https://link-center.net/60447/colorful-8",
+  },
+  {
+    name: "Colorful 9",
+    link: "https://media.discordapp.net/attachments/1087465346702786580/1091827453565087925/image.png",
+    download: "https://direct-link.net/60447/colorful-9",
+  },
+  // ALWAYS ADD FROM DOWN HERE
+  {
     name: "Blue Gem",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1092505793875689523/image.png",
     download: "https://link-center.net/60447/blue-gem",
@@ -119,51 +165,6 @@ export let FreePacks = [
     name: "Doppler Full",
     link: "https://media.discordapp.net/attachments/1087465346702786580/1092508927150796851/image.png",
     download: "https://link-hub.net/60447/doppler-full",
-  },
-  {
-    name: "Colorful 1",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091824093256503306/image.png",
-    download: "https://link-center.net/60447/colorful-1-rpf",
-  },
-  {
-    name: "Colorful 2",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091824723396137010/image.png",
-    download: "https://link-center.net/60447/colorful-2",
-  },
-  {
-    name: "Colorful 3",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825057543762040/image.png",
-    download: "https://link-center.net/60447/colorful3",
-  },
-  {
-    name: "Colorful 4",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825378819063818/image.png",
-    download: "https://direct-link.net/60447/colorful-4",
-  },
-  {
-    name: "Colorful 5",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091825723771195502/image.png",
-    download: "https://link-hub.net/60447/ccolorful-5",
-  },
-  {
-    name: "Colorful 6",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826065053331476/image.png",
-    download: "https://link-target.net/60447/colorful-6",
-  },
-  {
-    name: "Colorful 7",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826509217538108/image.png",
-    download: "https://link-target.net/60447/colorful-7",
-  },
-  {
-    name: "Colorful 8",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091826899543670794/image.png",
-    download: "https://link-center.net/60447/colorful-8",
-  },
-  {
-    name: "Colorful 9",
-    link: "https://media.discordapp.net/attachments/1087465346702786580/1091827453565087925/image.png",
-    download: "https://direct-link.net/60447/colorful-9",
   },
   {
     name: "Dirty Gold",
