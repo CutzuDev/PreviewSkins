@@ -63,7 +63,7 @@ function Navbar() {
       </div>
 
       <a
-        href="https://discord.gg/WWJuNS2z6c"
+        href="http://discord.cutzu.skin"
         target={"_blank"}
         className="font-regular flex items-center gap-1 rounded-xl bg-[#7289da] px-4 py-2 shadow-customBox shadow-neutral-900 transition duration-300 ease-in-out hover:scale-95 xl:gap-3"
       >
